@@ -6,3 +6,4 @@ src/SharpArch/CommonAssemblyInfo.cs
 *.suo
 *~
 *.user
+*.resharper

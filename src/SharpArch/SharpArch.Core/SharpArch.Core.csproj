@@ -54,8 +54,12 @@
     <Compile Include="CommonValidator\IValidatable.cs" />
     <Compile Include="CommonValidator\IValidationResult.cs" />
     <Compile Include="CommonValidator\IValidator.cs" />
+    <Compile Include="DesignByContract\DesignByContract.Assert.cs" />
+    <Compile Include="DesignByContract\DesignByContract.cs" />
+    <Compile Include="DesignByContract\DesignByContract.Invariant.cs" />
+    <Compile Include="DesignByContract\DesignByContract.Postcondition.cs" />
+    <Compile Include="DesignByContract\DesignByContract.Precondition.cs" />
     <Compile Include="DomainModel\BaseObject.cs" />
-    <Compile Include="DesignByContract.cs" />
     <Compile Include="DomainModel\BaseObjectEqualityComparer.cs" />
     <Compile Include="DomainModel\Entity.cs" />
     <Compile Include="DomainModel\IEntityWithTypedId.cs" />
